@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class ScreenshotFailure2 {
 
 	ScreenshotFaliure1 t1 = new ScreenshotFaliure1();
-
+	//Changes Done GitHub
 	@Test
 	public void Login() throws Exception {
 		System.setProperty("webdriver.chrome.driver", "D:\\Mission2024\\Mission2024\\Drivers\\chromedriver.exe");
